@@ -1,0 +1,20 @@
+{
+    "name": "Jarod Torres",
+    "linkedin": "https://www.linkedin.com/in/jarodtorres/",
+    "github": "twiggytea",
+    "email": "me@jarodtorres.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "HTML",
+        "CSS",
+        "CLI",
+        "GitHub"
+    ],
+    "otherSkills": [
+        "Chess",
+        "Mycology",
+        "Cooking"
+    ]
+}
